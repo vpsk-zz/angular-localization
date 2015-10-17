@@ -1,2 +1,4 @@
-# blog
-blog website
+
+# angular-localization
+angular localization learning demo version
+
